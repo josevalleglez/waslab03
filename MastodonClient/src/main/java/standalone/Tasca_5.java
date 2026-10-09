@@ -37,15 +37,6 @@ public class Tasca_5 {
                     .execute()
                     .returnContent()
                     .asString();
-
-            System.out.println("Darrer tut de fib_asw:\n" + boost);
-
-            JSONObject bRes = new JSONObject(boost);
-            if (bRes.has("error")) {
-                System.out.println("Error al fer boost: " + bRes.getString("error"));
-            } else {
-                System.out.println("Boost fet correctament!");
-            }
         }
         catch (Exception ex) {
             ex.printStackTrace();
