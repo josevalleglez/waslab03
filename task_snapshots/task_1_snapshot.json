@@ -1,0 +1,1192 @@
+[
+    {
+        "id": "117408337765611609",
+        "created_at": "2026-10-09T01:24:19.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://universeodon.com/users/zimfam/statuses/117408337726226580",
+        "url": "https://universeodon.com/@zimfam/117408337726226580",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "quotes_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p><a href=\"https://universeodon.com/tags/EverydayIsCaturday\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>EverydayIsCaturday</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "109573319081546485",
+            "username": "zimfam",
+            "acct": "zimfam@universeodon.com",
+            "display_name": "James Zimmerman",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2022-11-22T00:00:00.000Z",
+            "note": "<p>he/him<br>🇺🇦🏳️‍🌈<br>Professional Data Engineer<br>Trained Botanist<br>Enthusiast of biodiversity, elegant solutions to energy and sustainability problems.<br>Lover of farm to table cuisine<br><a href=\"https://universeodon.com/tags/pdx\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>pdx</span></a> x-urb</p><p>Note: I disabled my bsky bridge indefinitely.</p><p>universal healthcare now</p>",
+            "url": "https://universeodon.com/@zimfam",
+            "uri": "https://universeodon.com/users/zimfam",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/109/573/319/081/546/485/original/358e4dbb137a7ab9.jpg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/109/573/319/081/546/485/original/358e4dbb137a7ab9.jpg",
+            "avatar_description": "",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/109/573/319/081/546/485/original/0f0da8cacaa084ab.jpg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/109/573/319/081/546/485/original/0f0da8cacaa084ab.jpg",
+            "header_description": "",
+            "followers_count": 319,
+            "following_count": 1359,
+            "statuses_count": 1797,
+            "last_status_at": "2026-10-09",
+            "hide_collections": false,
+            "show_media": true,
+            "show_media_replies": true,
+            "show_featured": true,
+            "feature_approval": {
+                "automatic": [
+                    "public"
+                ],
+                "manual": [],
+                "current_user": "automatic"
+            },
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [
+            {
+                "id": "117408337749634016",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/337/749/634/016/original/56c62cfd6a076420.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/337/749/634/016/small/56c62cfd6a076420.jpg",
+                "remote_url": "https://media.universeodon.com/media_attachments/files/117/408/313/998/575/469/original/360dca1036112faa.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 1920,
+                        "height": 988,
+                        "size": "1920x988",
+                        "aspect": 1.94331983805668
+                    },
+                    "small": {
+                        "width": 669,
+                        "height": 344,
+                        "size": "669x344",
+                        "aspect": 1.944767441860465
+                    }
+                },
+                "description": "Sipsy, the tabby cat, is napping on a cotton laundry hamper, shaped like a long rustic bread loaf, tail wrapped in to almost her front elbows. And her face is pressed into her forelegs, suggesting extreme fatigue or crushing disappointment, though neither are very likely given the pampered life she lives.",
+                "blurhash": "UVFZ1vx[_NRjx^xt%gIB%MkCjFaex]WAxutR"
+            }
+        ],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "everydayiscaturday",
+                "url": "https://mastodont.cat/tags/everydayiscaturday"
+            }
+        ],
+        "emojis": [],
+        "tagged_collections": [],
+        "quote": null,
+        "card": null,
+        "poll": null,
+        "quote_approval": {
+            "automatic": [
+                "public"
+            ],
+            "manual": [],
+            "current_user": "automatic"
+        }
+    },
+    {
+        "id": "117408337290529216",
+        "created_at": "2026-10-09T01:02:00.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "de",
+        "uri": "https://flipboard.com/users/DerSpiegel/statuses/mZ9g6AwFR92cE2Z5ecQAUQ:a:2114916517",
+        "url": "https://flipboard.com/@derspiegel/top-nachrichten-0653kf6mz/-/a-mZ9g6AwFR92cE2Z5ecQAUQ%3Aa%3A2114916517-%2F0",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "quotes_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>ICE-Beamte schießen auf Mann in Auto – mit Kind an Bord <br><a href=\"https://www.spiegel.de/ausland/new-york-ice-beamte-schiessen-auf-mann-in-auto-kind-an-bord-a-cdc35fd7-cc9f-4781-9d1a-e34b9ea4ceae?utm_source=flipboard&amp;utm_medium=activitypub\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">spiegel.de/ausland/new-york-ic</span><span class=\"invisible\">e-beamte-schiessen-auf-mann-in-auto-kind-an-bord-a-cdc35fd7-cc9f-4781-9d1a-e34b9ea4ceae?utm_source=flipboard&amp;utm_medium=activitypub </span></a></p><p>Gepostet in Top-Nachrichten <span class=\"h-card\" translate=\"no\"><a href=\"https://flipboard.com/@derspiegel/top-nachrichten-0653kf6mz\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>top-nachrichten-DerSpiegel</span></a></span></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "114519750402180519",
+            "username": "DerSpiegel",
+            "acct": "DerSpiegel@flipboard.com",
+            "display_name": "DER SPIEGEL",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2025-05-13T00:00:00.000Z",
+            "note": "<p>Nachrichten, Analysen, Kommentare, Videos, Podcasts: Mehr als 500 SPIEGEL-Journalistinnen und Journalisten decken auf, setzen Themen und sorgen für Kontext.</p><p>Folgen, um Beiträge aus dem offiziellen <a href=\"https://flipboard.com/@DerSpiegel\" rel=\"nofollow noopener\" target=\"_blank\">DER SPIEGEL</a> Flipboard-Profil zu sehen.</p>",
+            "url": "https://flipboard.com/@DerSpiegel",
+            "uri": "https://flipboard.com/users/DerSpiegel",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/114/519/750/402/180/519/original/59dbd7f7c8f1fd3e.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/114/519/750/402/180/519/original/59dbd7f7c8f1fd3e.png",
+            "avatar_description": "",
+            "header": "https://mastodont.cat/headers/original/missing.png",
+            "header_static": "https://mastodont.cat/headers/original/missing.png",
+            "header_description": "",
+            "followers_count": 121675,
+            "following_count": 0,
+            "statuses_count": 665126,
+            "last_status_at": "2026-10-09",
+            "hide_collections": false,
+            "show_media": true,
+            "show_media_replies": true,
+            "show_featured": true,
+            "feature_approval": {
+                "automatic": [],
+                "manual": [],
+                "current_user": "missing"
+            },
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [],
+        "mentions": [
+            {
+                "id": "115083455025538543",
+                "username": "top-nachrichten-DerSpiegel",
+                "url": "https://flipboard.com/@derspiegel/top-nachrichten-0653kf6mz",
+                "acct": "top-nachrichten-DerSpiegel@flipboard.com"
+            }
+        ],
+        "tags": [],
+        "emojis": [],
+        "tagged_collections": [],
+        "quote": null,
+        "card": null,
+        "poll": null,
+        "quote_approval": {
+            "automatic": [
+                "public"
+            ],
+            "manual": [],
+            "current_user": "automatic"
+        }
+    },
+    {
+        "id": "117408337287025087",
+        "created_at": "2026-10-09T01:24:09.000Z",
+        "in_reply_to_id": "117408334790935731",
+        "in_reply_to_account_id": "169464",
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "ru",
+        "uri": "https://mastodon.online/users/amicalucis/statuses/117408337071852367",
+        "url": "https://mastodon.online/@amicalucis/117408337071852367",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "quotes_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "169464",
+            "username": "amicalucis",
+            "acct": "amicalucis@mastodon.online",
+            "display_name": "☬𝓐𝓶𝓲𝓬𝓐_𝓛𝓾𝓬𝓲𝓢☬  ✅",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": false,
+            "group": false,
+            "created_at": "2020-09-01T00:00:00.000Z",
+            "note": "<p>🎄🛡ミ★ 𝕬𝖉𝖒𝖎𝖓𝖎𝖘𝖙𝖗𝖆𝖙𝖎 ★彡🛡🎄<br>       <br>         ⛔ Politics is forbidden⛔<br>         💎 2⃣0⃣2⃣6⃣🐎<br>         🌐 Russia 🇷🇺 <br>         ❤‍🔥 Σοφία amat secreta 🗾<br>         👉Fiat justitia et pereat mundus👈</p>",
+            "url": "https://mastodon.online/@amicalucis",
+            "uri": "https://mastodon.online/users/amicalucis",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/000/169/464/original/bb04a8cbfafe8b85.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/000/169/464/original/bb04a8cbfafe8b85.png",
+            "avatar_description": "",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/000/169/464/original/07658b9ceedc777b.png",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/000/169/464/original/07658b9ceedc777b.png",
+            "header_description": "",
+            "followers_count": 1711,
+            "following_count": 44,
+            "statuses_count": 29189,
+            "last_status_at": "2026-10-09",
+            "hide_collections": true,
+            "show_media": true,
+            "show_media_replies": true,
+            "show_featured": true,
+            "feature_approval": {
+                "automatic": [
+                    "public"
+                ],
+                "manual": [],
+                "current_user": "automatic"
+            },
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "🐘 MASTODON 🚩",
+                    "value": "<a href=\"https://mastodon.ml/@amicalucis\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.ml/@amicalucis</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2026-10-07T11:57:28.547+00:00"
+                },
+                {
+                    "name": "♻️ MISSKEY 🚩",
+                    "value": "<a href=\"https://shitpost.poridge.club/@AmicALuciS\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">shitpost.poridge.club/@AmicALu</span><span class=\"invisible\">ciS</span></a>",
+                    "verified_at": "2026-10-07T11:57:28.804+00:00"
+                },
+                {
+                    "name": "💻 ZOTUM 🚩",
+                    "value": "<a href=\"https://zotum.net/channel/amica_lucis\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">zotum.net/channel/amica_lucis</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [
+            {
+                "id": "117408337244967274",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/337/244/967/274/original/3747992b32a93132.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/337/244/967/274/small/3747992b32a93132.jpg",
+                "remote_url": "https://files.mastodon.online/media_attachments/files/117/408/336/022/179/269/original/2d49a8cdcea10cb0.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 2048,
+                        "height": 1536,
+                        "size": "2048x1536",
+                        "aspect": 1.3333333333333333
+                    },
+                    "small": {
+                        "width": 554,
+                        "height": 416,
+                        "size": "554x416",
+                        "aspect": 1.3317307692307692
+                    }
+                },
+                "description": null,
+                "blurhash": "UJECagxaN2IU_LRWxIRi-=M|t7WA%MRQWFWA"
+            },
+            {
+                "id": "117408337258803184",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/337/258/803/184/original/df8373bbdfeeac8a.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/337/258/803/184/small/df8373bbdfeeac8a.jpg",
+                "remote_url": "https://files.mastodon.online/media_attachments/files/117/408/336/190/102/258/original/6535284d582289ac.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 2048,
+                        "height": 1536,
+                        "size": "2048x1536",
+                        "aspect": 1.3333333333333333
+                    },
+                    "small": {
+                        "width": 554,
+                        "height": 416,
+                        "size": "554x416",
+                        "aspect": 1.3317307692307692
+                    }
+                },
+                "description": null,
+                "blurhash": "UbD0u|NINHWr%%o#f,R.p0tRt8R+WFkDxvWC"
+            },
+            {
+                "id": "117408337268739379",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/337/268/739/379/original/b6b952ede0294d21.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/337/268/739/379/small/b6b952ede0294d21.jpg",
+                "remote_url": "https://files.mastodon.online/media_attachments/files/117/408/336/533/923/589/original/4d94ac80f04ad193.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 2048,
+                        "height": 1410,
+                        "size": "2048x1410",
+                        "aspect": 1.4524822695035462
+                    },
+                    "small": {
+                        "width": 578,
+                        "height": 398,
+                        "size": "578x398",
+                        "aspect": 1.4522613065326633
+                    }
+                },
+                "description": null,
+                "blurhash": "UYEMg;%fR4VryGbdROi^kskYt6j=j@o#X9kD"
+            },
+            {
+                "id": "117408337278617073",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/337/278/617/073/original/694066ac170b68a5.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/337/278/617/073/small/694066ac170b68a5.jpg",
+                "remote_url": "https://files.mastodon.online/media_attachments/files/117/408/336/958/495/296/original/2129c3e3471fec72.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 2048,
+                        "height": 1536,
+                        "size": "2048x1536",
+                        "aspect": 1.3333333333333333
+                    },
+                    "small": {
+                        "width": 554,
+                        "height": 416,
+                        "size": "554x416",
+                        "aspect": 1.3317307692307692
+                    }
+                },
+                "description": null,
+                "blurhash": "UQD0x,Q.H;T2I}V;rotUkYsRngW@x^oyRPV@"
+            }
+        ],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "tagged_collections": [],
+        "quote": null,
+        "card": null,
+        "poll": null,
+        "quote_approval": {
+            "automatic": [
+                "public"
+            ],
+            "manual": [],
+            "current_user": "automatic"
+        }
+    },
+    {
+        "id": "117408336630252483",
+        "created_at": "2026-10-09T01:24:02.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://merveilles.town/users/floatvoid/statuses/117408336595549210",
+        "url": "https://merveilles.town/@floatvoid/117408336595549210",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "quotes_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>It's important to support your favorite WereTuber this October. Don't forget to lycan subscribe.</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "141946",
+            "username": "floatvoid",
+            "acct": "floatvoid@merveilles.town",
+            "display_name": "floatvoid",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "indexable": false,
+            "group": false,
+            "created_at": "2018-12-15T00:00:00.000Z",
+            "note": "",
+            "url": "https://merveilles.town/@floatvoid",
+            "uri": "https://merveilles.town/users/floatvoid",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/000/141/946/original/b23e04e8c07f0510.jpg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/000/141/946/original/b23e04e8c07f0510.jpg",
+            "avatar_description": "",
+            "header": "https://mastodont.cat/headers/original/missing.png",
+            "header_static": "https://mastodont.cat/headers/original/missing.png",
+            "header_description": "",
+            "followers_count": 88,
+            "following_count": 13,
+            "statuses_count": 449,
+            "last_status_at": "2026-10-09",
+            "hide_collections": true,
+            "show_media": true,
+            "show_media_replies": true,
+            "show_featured": true,
+            "feature_approval": {
+                "automatic": [],
+                "manual": [],
+                "current_user": "missing"
+            },
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "tagged_collections": [],
+        "quote": null,
+        "card": null,
+        "poll": null,
+        "quote_approval": {
+            "automatic": [],
+            "manual": [],
+            "current_user": "denied"
+        }
+    },
+    {
+        "id": "117408336396771915",
+        "created_at": "2026-10-09T01:23:57.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://masto.ai/users/unusual_whales/statuses/117408336290690260",
+        "url": "https://masto.ai/@unusual_whales/117408336290690260",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "quotes_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>BREAKING: USA Today sues OpenAI for copyright infringement over AI training</p><p>  <a href=\"https://masto.ai/tags/news\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>news</span></a> <a href=\"https://masto.ai/tags/finance\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>finance</span></a> <a href=\"https://masto.ai/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://masto.ai/tags/stocks\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>stocks</span></a> <a href=\"https://masto.ai/tags/options\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>options</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "109382076544221368",
+            "username": "unusual_whales",
+            "acct": "unusual_whales@masto.ai",
+            "display_name": "unusual_whales",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": false,
+            "group": false,
+            "created_at": "2022-11-07T00:00:00.000Z",
+            "note": "<p>Tools for Stocks/Options/Crypto/Market News. </p><p>Premium + Support: <a href=\"http://unusualwhales.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">unusualwhales.com</span><span class=\"invisible\"></span></a></p><p>Discord: <a href=\"http://bit.ly/3Bf2pNJ\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">bit.ly/3Bf2pNJ</span><span class=\"invisible\"></span></a><br>Full Links + Socials: <a href=\"http://bit.ly/3V8D6Gb\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">bit.ly/3V8D6Gb</span><span class=\"invisible\"></span></a></p>",
+            "url": "https://masto.ai/@unusual_whales",
+            "uri": "https://masto.ai/users/unusual_whales",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/109/382/076/544/221/368/original/9ace252fbbc684af.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/109/382/076/544/221/368/original/9ace252fbbc684af.png",
+            "avatar_description": "",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/109/382/076/544/221/368/original/c0306a7aafe7936e.jpeg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/109/382/076/544/221/368/original/c0306a7aafe7936e.jpeg",
+            "header_description": "",
+            "followers_count": 2492,
+            "following_count": 5,
+            "statuses_count": 61986,
+            "last_status_at": "2026-10-09",
+            "hide_collections": false,
+            "show_media": true,
+            "show_media_replies": true,
+            "show_featured": true,
+            "feature_approval": {
+                "automatic": [
+                    "public"
+                ],
+                "manual": [],
+                "current_user": "automatic"
+            },
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "Twitter",
+                    "value": "<a href=\"https://twitter.com/unusual_whales/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/unusual_whales/</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Site",
+                    "value": "<a href=\"https://unusualwhales.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">unusualwhales.com/</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "news",
+                "url": "https://mastodont.cat/tags/news"
+            },
+            {
+                "name": "finance",
+                "url": "https://mastodont.cat/tags/finance"
+            },
+            {
+                "name": "economics",
+                "url": "https://mastodont.cat/tags/economics"
+            },
+            {
+                "name": "stocks",
+                "url": "https://mastodont.cat/tags/stocks"
+            },
+            {
+                "name": "options",
+                "url": "https://mastodont.cat/tags/options"
+            }
+        ],
+        "emojis": [],
+        "tagged_collections": [],
+        "quote": null,
+        "card": null,
+        "poll": null,
+        "quote_approval": {
+            "automatic": [
+                "public"
+            ],
+            "manual": [],
+            "current_user": "automatic"
+        }
+    },
+    {
+        "id": "117408335578295943",
+        "created_at": "2026-10-09T01:23:30.000Z",
+        "in_reply_to_id": "117407641845941494",
+        "in_reply_to_account_id": "110573315255652292",
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://retro.social/users/ifixcoinops/statuses/117408334503171272",
+        "url": "https://retro.social/@ifixcoinops/117408334503171272",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "quotes_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>PUT A FUCKING VOLUME KNOB, a REAL VOLUME KNOB, let us hear it CRACKLE and POP until we TAKE IT APART and CLEAN it, we have a need to periodically maintain and care for things, maintenance-free switches ROB us of the opportunity to fulfil this basic human need in a newbie-friendly non-threatening way, WE NEVER RECOVERED FROM LOSING THE WINDOWS DEFRAGGER</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "110573315255652292",
+            "username": "ifixcoinops",
+            "acct": "ifixcoinops@retro.social",
+            "display_name": "Dan Fixes Coin-Ops",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": false,
+            "group": false,
+            "created_at": "2023-06-19T00:00:00.000Z",
+            "note": "<p>Hello! I fix <a href=\"https://retro.social/tags/pinball\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>pinball</span></a> machines and <a href=\"https://retro.social/tags/arcade\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>arcade</span></a> games, and tell you all about it! I fix lots of other things too, and occasionally tell you about that. I also run one of the web's longest-surviving <a href=\"https://retro.social/tags/textAdventure\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>textAdventure</span></a> games, called Improbable Island, and I often write here on Fedi about decade-scale online community management stuff. Husband, dad, professional Thing Fixer and amateur woodworker in my early 40's, an <a href=\"https://retro.social/tags/immigrant\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>immigrant</span></a> from the UK to the USA. Gun enthusiasts pls do not follow/interact. Pronoun He</p>",
+            "url": "https://retro.social/@ifixcoinops",
+            "uri": "https://retro.social/users/ifixcoinops",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/110/573/315/255/652/292/original/061503a7f515d140.jpg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/110/573/315/255/652/292/original/061503a7f515d140.jpg",
+            "avatar_description": "",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/110/573/315/255/652/292/original/7fa17ab683ac7ebb.jpg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/110/573/315/255/652/292/original/7fa17ab683ac7ebb.jpg",
+            "header_description": "",
+            "followers_count": 7197,
+            "following_count": 884,
+            "statuses_count": 13720,
+            "last_status_at": "2026-10-09",
+            "hide_collections": true,
+            "show_media": true,
+            "show_media_replies": true,
+            "show_featured": true,
+            "feature_approval": {
+                "automatic": [],
+                "manual": [],
+                "current_user": "missing"
+            },
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "old account 2017-2022",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ifixcoinops\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ifixcoinops@mastodon.social</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "old account 2022-2023",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@ifixcoinops\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ifixcoinops@mstdn.social</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "My big old text adventure",
+                    "value": "<a href=\"https://www.improbableisland.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">improbableisland.com</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "After Dark account (18+)",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@funpit\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>funpit@mastodon.social</span></a></span>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "tagged_collections": [],
+        "quote": null,
+        "card": null,
+        "poll": null,
+        "quote_approval": {
+            "automatic": [],
+            "manual": [],
+            "current_user": "denied"
+        }
+    },
+    {
+        "id": "117408334790935731",
+        "created_at": "2026-10-09T01:23:32.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "ru",
+        "uri": "https://mastodon.online/users/amicalucis/statuses/117408334674427433",
+        "url": "https://mastodon.online/@amicalucis/117408334674427433",
+        "replies_count": 1,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "quotes_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p><a href=\"https://mastodon.online/tags/%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B1%D1%8B%D0%BB%D1%8C\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>чернобыль</span></a><br><a href=\"https://mastodon.online/tags/%D0%BF%D1%80%D0%B8%D0%BF%D1%8F%D1%82%D1%8C\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>припять</span></a><br>Осень 2026</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "169464",
+            "username": "amicalucis",
+            "acct": "amicalucis@mastodon.online",
+            "display_name": "☬𝓐𝓶𝓲𝓬𝓐_𝓛𝓾𝓬𝓲𝓢☬  ✅",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": false,
+            "group": false,
+            "created_at": "2020-09-01T00:00:00.000Z",
+            "note": "<p>🎄🛡ミ★ 𝕬𝖉𝖒𝖎𝖓𝖎𝖘𝖙𝖗𝖆𝖙𝖎 ★彡🛡🎄<br>       <br>         ⛔ Politics is forbidden⛔<br>         💎 2⃣0⃣2⃣6⃣🐎<br>         🌐 Russia 🇷🇺 <br>         ❤‍🔥 Σοφία amat secreta 🗾<br>         👉Fiat justitia et pereat mundus👈</p>",
+            "url": "https://mastodon.online/@amicalucis",
+            "uri": "https://mastodon.online/users/amicalucis",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/000/169/464/original/bb04a8cbfafe8b85.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/000/169/464/original/bb04a8cbfafe8b85.png",
+            "avatar_description": "",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/000/169/464/original/07658b9ceedc777b.png",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/000/169/464/original/07658b9ceedc777b.png",
+            "header_description": "",
+            "followers_count": 1711,
+            "following_count": 44,
+            "statuses_count": 29189,
+            "last_status_at": "2026-10-09",
+            "hide_collections": true,
+            "show_media": true,
+            "show_media_replies": true,
+            "show_featured": true,
+            "feature_approval": {
+                "automatic": [
+                    "public"
+                ],
+                "manual": [],
+                "current_user": "automatic"
+            },
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "🐘 MASTODON 🚩",
+                    "value": "<a href=\"https://mastodon.ml/@amicalucis\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.ml/@amicalucis</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2026-10-07T11:57:28.547+00:00"
+                },
+                {
+                    "name": "♻️ MISSKEY 🚩",
+                    "value": "<a href=\"https://shitpost.poridge.club/@AmicALuciS\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">shitpost.poridge.club/@AmicALu</span><span class=\"invisible\">ciS</span></a>",
+                    "verified_at": "2026-10-07T11:57:28.804+00:00"
+                },
+                {
+                    "name": "💻 ZOTUM 🚩",
+                    "value": "<a href=\"https://zotum.net/channel/amica_lucis\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">zotum.net/channel/amica_lucis</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [
+            {
+                "id": "117408334731951808",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/334/731/951/808/original/508f529bdaab452f.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/334/731/951/808/small/508f529bdaab452f.jpg",
+                "remote_url": "https://files.mastodon.online/media_attachments/files/117/408/333/982/447/900/original/bca3e6ba0685b199.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 2048,
+                        "height": 1481,
+                        "size": "2048x1481",
+                        "aspect": 1.3828494260634707
+                    },
+                    "small": {
+                        "width": 564,
+                        "height": 408,
+                        "size": "564x408",
+                        "aspect": 1.3823529411764706
+                    }
+                },
+                "description": null,
+                "blurhash": "U+E|3%NGVrV?yGWBjEe-R.WBkCbHnfjra}WY"
+            },
+            {
+                "id": "117408334743869619",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/334/743/869/619/original/e1ccf03a6bd0bb54.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/334/743/869/619/small/e1ccf03a6bd0bb54.jpg",
+                "remote_url": "https://files.mastodon.online/media_attachments/files/117/408/334/155/066/987/original/cdd360cc48f667c2.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 2048,
+                        "height": 1536,
+                        "size": "2048x1536",
+                        "aspect": 1.3333333333333333
+                    },
+                    "small": {
+                        "width": 554,
+                        "height": 416,
+                        "size": "554x416",
+                        "aspect": 1.3317307692307692
+                    }
+                },
+                "description": null,
+                "blurhash": "UjD^7LR*M{tR.AofWCbctmt8o#RkbbkXtRV@"
+            },
+            {
+                "id": "117408334762819356",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/334/762/819/356/original/fedca19a770da9b0.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/334/762/819/356/small/fedca19a770da9b0.jpg",
+                "remote_url": "https://files.mastodon.online/media_attachments/files/117/408/334/323/639/920/original/6ea0048f11dd99f2.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 2048,
+                        "height": 1536,
+                        "size": "2048x1536",
+                        "aspect": 1.3333333333333333
+                    },
+                    "small": {
+                        "width": 554,
+                        "height": 416,
+                        "size": "554x416",
+                        "aspect": 1.3317307692307692
+                    }
+                },
+                "description": null,
+                "blurhash": "UnEMqIyYjEoI%%XpaeWAXUS6V@WBofaKRPbF"
+            },
+            {
+                "id": "117408334777380953",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/334/777/380/953/original/17d94134c93bcf73.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/117/408/334/777/380/953/small/17d94134c93bcf73.jpg",
+                "remote_url": "https://files.mastodon.online/media_attachments/files/117/408/334/540/233/169/original/379f7ea7958261c1.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 2048,
+                        "height": 1536,
+                        "size": "2048x1536",
+                        "aspect": 1.3333333333333333
+                    },
+                    "small": {
+                        "width": 554,
+                        "height": 416,
+                        "size": "554x416",
+                        "aspect": 1.3317307692307692
+                    }
+                },
+                "description": null,
+                "blurhash": "UGD9YZRVIo%4y?aPR*xv=|Nexbxbt7WVNKt7"
+            }
+        ],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "чернобыль",
+                "url": "https://mastodont.cat/tags/%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B1%D1%8B%D0%BB%D1%8C"
+            },
+            {
+                "name": "припять",
+                "url": "https://mastodont.cat/tags/%D0%BF%D1%80%D0%B8%D0%BF%D1%8F%D1%82%D1%8C"
+            }
+        ],
+        "emojis": [],
+        "tagged_collections": [],
+        "quote": null,
+        "card": null,
+        "poll": null,
+        "quote_approval": {
+            "automatic": [
+                "public"
+            ],
+            "manual": [],
+            "current_user": "automatic"
+        }
+    },
+    {
+        "id": "117408334735201896",
+        "created_at": "2026-10-09T01:21:16.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://cyberpunk.lol/users/vantablack/statuses/117408325697695277",
+        "url": "https://cyberpunk.lol/@vantablack/117408325697695277",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "quotes_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>please send me $10</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "111653873551678632",
+            "username": "vantablack",
+            "acct": "vantablack@cyberpunk.lol",
+            "display_name": "🌈 vanta rainbow black 🌈",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2023-12-27T00:00:00.000Z",
+            "note": "<p>❤️🧡💛💚💙💜</p><p>vanta rainbow black, Legendary Defender Of The Fediverse</p><p>creator of FediPact, as seen in the book Move Slowly And Build Bridges: Mastodon, The Fediverse, And The Struggle For Democratic Social Media!</p><p>recognized irl from fedi 31 times so far</p><p>\"misfit loser zealot\" according to john gruber</p><p>a late 20's <a href=\"https://cyberpunk.lol/tags/cyberpunk\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>cyberpunk</span></a> <a href=\"https://cyberpunk.lol/tags/catgirl\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>catgirl</span></a> living in <a href=\"https://cyberpunk.lol/tags/seattle\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>seattle</span></a> </p><p>164,261 lifetime posts on past instances. joined fedi 2017</p><p>DONATION INFO: <a href=\"https://vanta.money\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">vanta.money</span><span class=\"invisible\"></span></a></p><p>:over18:​ MDNI :over18:</p>",
+            "url": "https://cyberpunk.lol/@vantablack",
+            "uri": "https://cyberpunk.lol/users/vantablack",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/111/653/873/551/678/632/original/951161b076c26f29.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/111/653/873/551/678/632/original/951161b076c26f29.png",
+            "avatar_description": "",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/111/653/873/551/678/632/original/470139afb38dc0df.png",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/111/653/873/551/678/632/original/470139afb38dc0df.png",
+            "header_description": "",
+            "followers_count": 4682,
+            "following_count": 1326,
+            "statuses_count": 51113,
+            "last_status_at": "2026-10-09",
+            "hide_collections": false,
+            "show_media": true,
+            "show_media_replies": true,
+            "show_featured": true,
+            "feature_approval": {
+                "automatic": [
+                    "public"
+                ],
+                "manual": [],
+                "current_user": "automatic"
+            },
+            "emojis": [
+                {
+                    "shortcode": "over18",
+                    "url": "https://mastodont.cat/system/cache/custom_emojis/images/000/229/473/original/b908f103c31dcd7f.png",
+                    "static_url": "https://mastodont.cat/system/cache/custom_emojis/images/000/229/473/static/b908f103c31dcd7f.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "fields": [
+                {
+                    "name": "for more info visit",
+                    "value": "<a href=\"https://vantaa.black\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">vantaa.black</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2026-10-07T16:14:03.301+00:00"
+                },
+                {
+                    "name": "pronouns",
+                    "value": "she/they/it",
+                    "verified_at": null
+                },
+                {
+                    "name": "discord server",
+                    "value": "<a href=\"https://discord.gg/544wr8bNyc\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">discord.gg/544wr8bNyc</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "joyfriend",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.octofriends.garden/@ka_so\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ka_so@mastodon.octofriends.garden</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "big sis",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://cyberpunk.lol/@rachaelspooky\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rachaelspooky</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "headmates",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://cyberpunk.lol/@sativa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sativa</span></a></span> and <span class=\"h-card\" translate=\"no\"><a href=\"https://cyberpunk.lol/@Neon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Neon</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "seattle alt",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://seattle.pink/@vantablack\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>vantablack@seattle.pink</span></a></span>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "tagged_collections": [],
+        "quote": null,
+        "card": null,
+        "poll": null,
+        "quote_approval": {
+            "automatic": [
+                "public"
+            ],
+            "manual": [],
+            "current_user": "automatic"
+        }
+    },
+    {
+        "id": "117408333483410514",
+        "created_at": "2026-10-09T01:22:53.505Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": null,
+        "uri": "https://lemmy.ml/post/53762092",
+        "url": "https://lemmy.ml/post/53762092",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "quotes_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p><strong>Fort Hood shooter’s execution will be live-streamed, Defense Dept. says</strong></p>\n\n<p><a href=\"https://lemmy.ml/post/53762092\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">lemmy.ml/post/53762092</span><span class=\"invisible\"></span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "108132373480730450",
+            "username": "yogthos",
+            "acct": "yogthos@lemmy.ml",
+            "display_name": "☆ Yσɠƚԋσʂ ☆",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "indexable": false,
+            "group": false,
+            "created_at": "2020-01-18T00:00:00.000Z",
+            "note": "",
+            "url": "https://lemmy.ml/u/yogthos",
+            "uri": "https://lemmy.ml/u/yogthos",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/108/132/373/480/730/450/original/7f1eba5970489317.jpeg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/108/132/373/480/730/450/original/7f1eba5970489317.jpeg",
+            "avatar_description": "",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/108/132/373/480/730/450/original/3ded1297fc0912ed.jpeg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/108/132/373/480/730/450/original/3ded1297fc0912ed.jpeg",
+            "header_description": "",
+            "followers_count": 2,
+            "following_count": 0,
+            "statuses_count": 23,
+            "last_status_at": "2026-10-09",
+            "hide_collections": true,
+            "show_media": true,
+            "show_media_replies": true,
+            "show_featured": true,
+            "feature_approval": {
+                "automatic": [],
+                "manual": [],
+                "current_user": "missing"
+            },
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "usa",
+                "url": "https://mastodont.cat/tags/usa"
+            }
+        ],
+        "emojis": [],
+        "tagged_collections": [],
+        "quote": null,
+        "card": null,
+        "poll": null,
+        "quote_approval": {
+            "automatic": [],
+            "manual": [],
+            "current_user": "denied"
+        }
+    },
+    {
+        "id": "117408333007379354",
+        "created_at": "2026-10-09T01:19:55.000Z",
+        "in_reply_to_id": "117401704815712605",
+        "in_reply_to_account_id": "111653873551678632",
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://cyberpunk.lol/users/vantablack/statuses/117408320403627929",
+        "url": "https://cyberpunk.lol/@vantablack/117408320403627929",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "quotes_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>$0/$200</p><p>please help me keep up with groceries and such!!! i'm still stuck unable to walk and totally miserable healing from this broken ankle!!!!!</p><p><a href=\"https://cyberpunk.lol/tags/MutualAid\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>MutualAid</span></a> <a href=\"https://cyberpunk.lol/tags/TransCrowdFund\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>TransCrowdFund</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "111653873551678632",
+            "username": "vantablack",
+            "acct": "vantablack@cyberpunk.lol",
+            "display_name": "🌈 vanta rainbow black 🌈",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2023-12-27T00:00:00.000Z",
+            "note": "<p>❤️🧡💛💚💙💜</p><p>vanta rainbow black, Legendary Defender Of The Fediverse</p><p>creator of FediPact, as seen in the book Move Slowly And Build Bridges: Mastodon, The Fediverse, And The Struggle For Democratic Social Media!</p><p>recognized irl from fedi 31 times so far</p><p>\"misfit loser zealot\" according to john gruber</p><p>a late 20's <a href=\"https://cyberpunk.lol/tags/cyberpunk\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>cyberpunk</span></a> <a href=\"https://cyberpunk.lol/tags/catgirl\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>catgirl</span></a> living in <a href=\"https://cyberpunk.lol/tags/seattle\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>seattle</span></a> </p><p>164,261 lifetime posts on past instances. joined fedi 2017</p><p>DONATION INFO: <a href=\"https://vanta.money\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">vanta.money</span><span class=\"invisible\"></span></a></p><p>:over18:​ MDNI :over18:</p>",
+            "url": "https://cyberpunk.lol/@vantablack",
+            "uri": "https://cyberpunk.lol/users/vantablack",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/111/653/873/551/678/632/original/951161b076c26f29.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/111/653/873/551/678/632/original/951161b076c26f29.png",
+            "avatar_description": "",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/111/653/873/551/678/632/original/470139afb38dc0df.png",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/111/653/873/551/678/632/original/470139afb38dc0df.png",
+            "header_description": "",
+            "followers_count": 4682,
+            "following_count": 1326,
+            "statuses_count": 51113,
+            "last_status_at": "2026-10-09",
+            "hide_collections": false,
+            "show_media": true,
+            "show_media_replies": true,
+            "show_featured": true,
+            "feature_approval": {
+                "automatic": [
+                    "public"
+                ],
+                "manual": [],
+                "current_user": "automatic"
+            },
+            "emojis": [
+                {
+                    "shortcode": "over18",
+                    "url": "https://mastodont.cat/system/cache/custom_emojis/images/000/229/473/original/b908f103c31dcd7f.png",
+                    "static_url": "https://mastodont.cat/system/cache/custom_emojis/images/000/229/473/static/b908f103c31dcd7f.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "fields": [
+                {
+                    "name": "for more info visit",
+                    "value": "<a href=\"https://vantaa.black\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">vantaa.black</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2026-10-07T16:14:03.301+00:00"
+                },
+                {
+                    "name": "pronouns",
+                    "value": "she/they/it",
+                    "verified_at": null
+                },
+                {
+                    "name": "discord server",
+                    "value": "<a href=\"https://discord.gg/544wr8bNyc\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">discord.gg/544wr8bNyc</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "joyfriend",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.octofriends.garden/@ka_so\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ka_so@mastodon.octofriends.garden</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "big sis",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://cyberpunk.lol/@rachaelspooky\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>rachaelspooky</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "headmates",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://cyberpunk.lol/@sativa\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>sativa</span></a></span> and <span class=\"h-card\" translate=\"no\"><a href=\"https://cyberpunk.lol/@Neon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>Neon</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "seattle alt",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://seattle.pink/@vantablack\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>vantablack@seattle.pink</span></a></span>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "mutualaid",
+                "url": "https://mastodont.cat/tags/mutualaid"
+            },
+            {
+                "name": "transcrowdfund",
+                "url": "https://mastodont.cat/tags/transcrowdfund"
+            }
+        ],
+        "emojis": [],
+        "tagged_collections": [],
+        "quote": null,
+        "card": null,
+        "poll": null,
+        "quote_approval": {
+            "automatic": [
+                "public"
+            ],
+            "manual": [],
+            "current_user": "automatic"
+        }
+    }
+]
